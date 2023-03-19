@@ -1,0 +1,6 @@
+---
+type: specs.openrewrite.org/v1beta/recipe
+name: com.github.sansp00.ContextAndContainer
+recipeList:
+  - com.github.sansp00.structurizr.recipe.StructurizrStereotypeRecipe:
+      diagramExporterName: "C4PlantUML"
